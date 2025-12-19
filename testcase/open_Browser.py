@@ -6,5 +6,5 @@ driver=webdriver.Firefox()
 
 #step 2 open facebook website
 driver.get(url)
-#quiet the browser
+#quiet the browser add
 driver.quit()
